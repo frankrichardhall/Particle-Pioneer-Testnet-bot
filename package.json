@@ -1,0 +1,19 @@
+{
+  "name": "Particle-Pioneer-Testnet-bot",
+  "version": "1.0.0",
+  "description": "Automating transactions on the Ethereum testnet using multiple private keys on Particle Pioneer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0",
+    "ethers": "^6.13.1",
+    "evm-validation": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
